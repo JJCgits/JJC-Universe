@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JJC-Universe. 
 - 👀 I’m interested in ... Proggraming, electrical engineering and, 3d printing and design
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... fun games 
+- 🌱 I’m currently learning ... Html, CSS, and JavaScript
+- 💞️ I’m looking to collaborate on ... fun games, or cool projects 
 - 📫 How to reach me ... jjchiyezhan26@gmail.com
 
 <!---
